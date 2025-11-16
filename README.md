@@ -3,7 +3,7 @@
 # My own portfolio
 
 made with _Typescript_ and _Solid_.
-[`Website`](.)
+[`Website`](https://watermelonicevape.vercel.app/)
 
 [![TypeScript](https://img.shields.io/badge/typescript-5.1.3-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![SolidJS](https://img.shields.io/badge/solidjs-1.7.6-2C4F7C?style=flat-square&logo=solid&logoColor=white)](https://solidjs.com)
@@ -87,6 +87,6 @@ Deploy `dist/` to:
 
 <div align="left">
 
-**[website](.)** • **[@ogkae](https://github.com/ogkae)** • **[discord](https://discord.com/users/1394747147106254949)**
+**[website](https://watermelonicevape.vercel.app/)** • **[@ogkae](https://github.com/ogkae)** • **[discord](https://discord.com/users/1394747147106254949)**
 
 </div>
