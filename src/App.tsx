@@ -76,6 +76,13 @@ export default function App() {
       tech: ['extension', 'python', 'javascript'],
       github: 'https://github.com/ogkae/perplexity-omnibox',
     },
+    {
+      id: 'p4',
+      title: 'hoopie',
+      description:
+        'Modular css framework',
+      tech: ['css', 'framework', 'html'],
+      github: 'https://github.com/ogkae/hoopie',
   ];
 
   const experiences: Experience[] = [
